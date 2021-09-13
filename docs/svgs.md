@@ -19,6 +19,7 @@
 - [facebook](https://simpleicons.org/?q=facebook)
 - [facebook-messenger](https://simpleicons.org/?q=messenger)
 - [fitbit](https://simpleicons.org/?q=fitbit)
+- [flickr](https://simpleicons.org/?q=flickr)
 - git
 - [gitbook](https://simpleicons.org/?q=gitbook)
 - [gitea](https://simpleicons.org/?q=gitea)
